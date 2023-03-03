@@ -1,18 +1,13 @@
 {
-    "name": "october/demo-theme",
+    "name": "AydenJackson/custom-theme",
     "type": "october-theme",
-    "description": "Demo OctoberCMS theme",
-    "keywords": ["october", "cms", "demo", "theme"],
+    "description": "Custom Ayden Jackson Theme,
+    "keywords": ["october", "cms", "custom", "theme"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Alexey Bobkov",
-            "email": "aleksey.bobkov@gmail.com",
-            "role": "Co-founder"
-        },
-        {
-            "name": "Samuel Georges",
-            "email": "daftspunky@gmail.com",
+            "name": "Ayden Jackson",
+            "email": "contact@aydenjackson.com",
             "role": "Co-founder"
         }
     ],
